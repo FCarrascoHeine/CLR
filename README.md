@@ -26,14 +26,14 @@ Execution example: python CLR_main.py SchneiderData/400-25-1e 1 0 1 0.1 0 1
       2 if it is solved as an IP, including Assignment)
 - 1: Assignment IP (0 if Assignment LP + rounding); only relevant if CFL_mod < 2
 - 0.1: Value of parameter epsilon (Local search)
-- 0: No Gurobi output (enter 1 otherwise)
+- 0: No Gurobi output (1 otherwise)
 - 1: Print the tours corresponding to the solution (0 if not)
 
 II.2) IDE
 
 Parameter 'commandline_input' (line 28) needs to be set to 'False'.
 
-The parameters explained in (I.1) need to be set in the code itself (lines 50-56).
+The parameters explained in (II.1) need to be set in the code itself (lines 50-56).
 
 --------------------
 III) FINAL COMMENTS
