@@ -13,7 +13,7 @@ II) USING THE CODE
 
 'CLR_main.py' allows solving any single instance within the folders 'BenchmarkData', 'SchneiderData', and 'OriginalData'. To execute the code, there are two possibilities:
 
-I.1) Command line
+II.1) Command line
 
 Parameter 'commandline_input' (line 28) needs to be set to 'True'.
 
@@ -29,7 +29,7 @@ Execution example: python CLR_main.py SchneiderData/400-25-1e 1 0 1 0.1 0 1
 - 0: No Gurobi output (enter 1 otherwise)
 - 1: Print the tours corresponding to the solution (0 if not)
 
-I.2) IDE
+II.2) IDE
 
 Parameter 'commandline_input' (line 28) needs to be set to 'False'.
 
