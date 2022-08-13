@@ -41,4 +41,4 @@ The parameters explained in (II.1) need to be set in the code itself (lines 50-5
 III) FINAL COMMENTS
 
 - Some additional parameters can be modified (lines 29-34).
-- Understanding the parameters and their effects require not only understanding CLR, but probably also reading the paper (especially section 5).
+- Understanding the parameters and their effects require not only understanding CLR, but also reading the paper (especially section 5).
