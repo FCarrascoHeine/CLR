@@ -6,7 +6,7 @@ This code ('CLR_main.py' and 'CLR_functions.py') was designed to solve instances
 
 Besides Python, a Gurobi license is required. 
 
-The code was created by Oscar F. Carrasco Heine, in order to perform the computational study of the following paper (Carrasco Heine, Demleitner, and Matuschke, 2022): https://doi.org/10.1016/j.ejor.2022.04.028
+The code was created by Oscar F. Carrasco Heine, in order to perform the computational study of the paper "Bifactor approximation for location routing with vehicle and facility capacities" (Carrasco Heine, Demleitner, and Matuschke, 2022): https://doi.org/10.1016/j.ejor.2022.04.028
 
 Details about the origin of the instances contained in the folders 'BenchmarkData', 'SchneiderData', and 'OriginalData' can be found in said paper. Neither the instances in 'BenchmarkData', nor in 'SchneiderData' were created by the author of the code, or by any other of the paper's authors.
 
